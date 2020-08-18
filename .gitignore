@@ -1,3 +1,10 @@
+# mac OS rubbish
+.DS_store
+
+# Editors Configurations
+.vscode
+.idea
+
 # Notebook checkpoints
 .ipynb_checkpoints
 
